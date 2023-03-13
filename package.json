@@ -1,16 +1,15 @@
 {
-  "name": "elrich-bachman",
+  "name": "fredrick-ochieng",
   "version": "1.0.0",
   "description": "Portfolio templates for devfolio.io",
   "main": "index.js",
-  "repository": "https://github.com/Mr-spShuvo/devfolio-templates",
-  "author": "Md. Shahriar Parvez<mr.spshuvo@gmail.com>",
+  "author": "fredrick ochieng<flaughters@gmail.com>",
   "license": "MIT",
   "scripts": {
     "watch": "node-sass scss/app.scss styles/app.css -w",
     "build": "node-sass scss/app.scss styles/app.min.css --output-style=compressed"
   },
   "dependencies": {
-    "node-sass": "^6.0.1"
+    "node-sass": "^8.0.0"
   }
 }
