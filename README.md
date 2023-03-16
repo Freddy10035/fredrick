@@ -13,17 +13,17 @@ The portfolio website was developed using the following technologies:
 ## Features
 The portfolio website has the following features:
 
-1. Home Page 
+1. Home Page <br>
 Displays a brief summary and introduction to the developer's skills and competencies.
-2. Portfolio Section 
+2. Portfolio Section <br>
 Displays the various projects that the developer has worked on.
-3. About Me Section 
+3. About Me Section <br>
 Provides detailed information about the developer's background, experience, and attributes.
-4. Testimonials Section 
+4. Testimonials Section <br>
 Features testimonials from previous clients and developers who have worked with Fredrick.
-5. Navigation Bar 
+5. Navigation Bar <br>
 Located at the top of the page and allows users to navigate to other sections of the website easily.
-6. Mobile Responsive Design 
+6. Mobile Responsive Design <br>
 Ensures the website is accessible and easy to use on different devices.
 
 ## Usage
