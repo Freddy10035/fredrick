@@ -13,21 +13,21 @@ The portfolio website was developed using the following technologies:
 ## Features
 The portfolio website has the following features:
 
-### Home Page 
+1. Home Page 
 Displays a brief summary and introduction to the developer's skills and competencies.
-### Portfolio Section 
+2. Portfolio Section 
 Displays the various projects that the developer has worked on.
-### About Me Section 
+3. About Me Section 
 Provides detailed information about the developer's background, experience, and attributes.
-### Testimonials Section 
+4. Testimonials Section 
 Features testimonials from previous clients and developers who have worked with Fredrick.
-### Navigation Bar 
+5. Navigation Bar 
 Located at the top of the page and allows users to navigate to other sections of the website easily.
-### Mobile Responsive Design 
+6. Mobile Responsive Design 
 Ensures the website is accessible and easy to use on different devices.
 
 ## Usage
-Users can view the website by clicking here[https://fredrick-ochieng.netlify.app].
+Users can view the website by clicking [here](https://fredrick-ochieng.netlify.app).
 
 ## Installation Steps
 To install this project locally, clone this repository by running the following command:
